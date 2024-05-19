@@ -165,3 +165,6 @@ lib/
 lib64/
 include/
 pyvenv.cfg
+etc/jupyter/
+lb64/
+share/
